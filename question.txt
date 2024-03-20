@@ -893,3 +893,5 @@ How an SQL query is processed?
 ACID properties in the database and their use case?
 How a SQL query is optimized?
 How SQLite is different from Mongodb?
+
+
